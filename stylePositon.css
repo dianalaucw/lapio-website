@@ -1,0 +1,27 @@
+.first{
+width: 200px;
+height: 100px;
+background-color: red;
+border: 1vw solid green;
+position:relative;
+}
+.second{
+width: 200px;
+height: 100px;
+background-color:yellow;
+border: 1vw solid red;
+left: 250px;
+bottom: 555px;
+position:absolute;
+}
+.third{
+width: 200px;
+height: 100px;
+border: 1vw solid yellow;
+background-color: green;
+}
+p{
+color:blue;
+text-align:center;
+text-transform:uppercase;
+}
